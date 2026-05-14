@@ -29,3 +29,7 @@
 
   # Set the addon project
     ADDON_PROJECT="ARMv8"
+
+  # Audio
+    PULSEAUDIO_SUPPORT="no"
+    PIPEWIRE_SUPPORT="yes"
